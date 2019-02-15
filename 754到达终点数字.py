@@ -8,4 +8,4 @@ class Solution:
         position = 0
         if target == 0:
             return 0
-      
+
